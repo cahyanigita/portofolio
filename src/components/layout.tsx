@@ -1,7 +1,6 @@
 import Footer from "./footer";
 import LandingPage from "../features/landing-page";
 import Navbar from "./navbar";
-import React from "react";
 
 const Layout = () => {
   return (
